@@ -48,3 +48,5 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
+
+FruitName = "mango","orange","pineapple"
